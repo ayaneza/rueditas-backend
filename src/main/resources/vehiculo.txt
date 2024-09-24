@@ -1,0 +1,5 @@
+ABC-1234;Honda;Civic;5;22000;negro
+XYZ-6789;Toyota;Corolla;5;24000;blanco
+JKL-9876;Ford;Mustang;4;35000;azul
+LMN-5432;Hyundai;Tucson;5;28000;gris
+PQR-1122;Honda;Accord;5;26000;verde
